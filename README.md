@@ -1,4 +1,4 @@
-### Expected result
+# Expected result
 ![image](https://user-images.githubusercontent.com/48014410/142157871-38a145cd-5240-43ec-b415-b54645f59ac8.png)
 
 # Getting Started with Create React App
